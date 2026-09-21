@@ -136,4 +136,4 @@ Generated screenshots and exported test images are written to `tests/artifacts/`
 
 ## License
 
-Add a license file before distributing or publishing the project under a specific open-source license.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.

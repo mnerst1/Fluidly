@@ -2,6 +2,9 @@
 
 Fluidly is an interactive, real-time fluid dynamics playground built with PHP and WebGL 2. Paint with color and momentum, shape the flow with responsive controls, and export the result as an image—all directly in the browser.
 
+<img width="1656" height="1080" alt="{B63AB6B7-68FC-4F74-85E4-B57271D34417}" src="https://github.com/user-attachments/assets/d048f982-af62-4bb3-9ee1-a12973cab2e3" />
+
+
 ## Features
 
 - Real-time GPU fluid simulation powered by WebGL 2
